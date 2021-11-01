@@ -10,4 +10,6 @@
 
 .App {
   background: #e3f6f5;
+  max-width: 960px;
+  margin: 0 auto;
 }
