@@ -10,12 +10,20 @@
   font-size: 12px;
   margin-right: 10px;
   font-weight: bold;
+}
+
+.Phonetic .fa-play-circle {
+  border: 1px solid #949191;
+  border-radius: 40px;
+  margin: 5px 5px 0 0;
+  font-size: 20px;
+  padding: 5px;
   transition: all 150ms ease-in-out;
 }
 
-.Phonetic a:hover {
-  background: #bae8e8;
-  color: white;
+.Phonetic .fa-play-circle:hover {
+  cursor: pointer;
+  color: #949191;
 }
 
 .Phonetic .text {

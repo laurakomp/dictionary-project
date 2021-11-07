@@ -5,16 +5,10 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <header className="App-header">
-          <h1>Dictionary</h1>
-        </header>
+        <header className="App-header"></header>
         <main>
           <Dictionary defaultKeyword="journey" />
         </main>
-
-        <footer className="App-footer">
-          <small>Coded by Laura Komp</small>
-        </footer>
       </div>
     </div>
   );

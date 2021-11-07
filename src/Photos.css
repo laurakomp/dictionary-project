@@ -1,4 +1,9 @@
 .Photos img {
   border-radius: 3px;
   margin-bottom: 20px;
+  filter: grayscale(100%);
+}
+
+.Photos img:hover {
+  filter: none;
 }

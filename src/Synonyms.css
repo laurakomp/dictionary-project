@@ -5,7 +5,13 @@
 
 .Synonyms li {
   display: inline-block;
-  font-size: 15px;
+  font-size: 12px;
   padding-right: 15px;
   line-height: 1;
+  background-color: #e0e4e6b4;
+  border: 1px solid #949191;
+  border-radius: 15px;
+  font-size: 1rem;
+  margin: 5px;
+  padding: 8px;
 }
