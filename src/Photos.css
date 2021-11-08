@@ -6,4 +6,5 @@
 
 .Photos img:hover {
   filter: none;
+  transition: all 150ms ease-in-out;
 }
